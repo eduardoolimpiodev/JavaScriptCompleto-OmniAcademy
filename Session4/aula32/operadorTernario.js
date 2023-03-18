@@ -18,3 +18,4 @@ if(bomPagador) {
 console.log("O cliente " + nome + (bomPagador ? " é bom pagador." : " não é bom pagador."));
 
 console.log(bomPagador ? "O cliente "+ nome + " é um bom pagador!" : "O cliente "+ nome + " não é um bom pagador!");
+
